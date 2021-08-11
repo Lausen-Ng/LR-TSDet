@@ -1,5 +1,5 @@
-# LR-TSDet
- LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing Images
+# LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing Images
+The official implementation of the paper  [LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing](https://github.com/Lausen-Ng/LR-TSDet)
 
 ## Updates
 
