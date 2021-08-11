@@ -1,6 +1,8 @@
 # LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing Images
 The official implementation of the paper  [LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing](https://github.com/Lausen-Ng/LR-TSDet). The repo is based on [mmdetection](https://github.com/open-mmlab/mmdetection).
 
+<img src="./framework.png" alt="framework" style="zoom:40%;" />
+
 >LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing Images
 >
 >[Jixiang Wu](http://lausen-ng.github.io/), [Zongxu Pan](http://people.ucas.ac.cn/~panzx), Bin Lei, Yuxin Hu.
