@@ -1,6 +1,10 @@
 # LR-TSDet
  LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing Images
 
+## Updates
+
+-   2021-08-10, Code is released.
+
 ## Citation
 
 If you find this repository/work helpful in your research, welcome to cite the paper.
