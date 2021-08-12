@@ -14,15 +14,15 @@ Recently, deep-learning based methods have made great improvements in object det
 
 -   2021-08-10, Code is released.
 
-## Installation
+## Usage
 
-Please refer to 
+Please refer to [mmdetection](https://github.com/open-mmlab/mmdetection) for installation, training, evaluation, etc.
 
 ## Citation
 
 If you find this repository/work helpful in your research, welcome to cite the paper.
 
-```
+```bibtex
 @article{wu2021lrtsdet,
   title={LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing Images},
   author={Wu, Jixiang and Pan, Zongxu, and Lei, Bin and Hu, Yuxin},
