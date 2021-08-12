@@ -14,7 +14,7 @@ Recently, deep-learning based methods have made great improvements in object det
 
 -   2021-08-10, Code is released.
 
-## Installation & Useage
+## Installation
 
 Please refer to 
 
