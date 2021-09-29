@@ -24,14 +24,15 @@ If you find this repository/work helpful in your research, welcome to cite the p
 
 ```bibtex
 @article{wu2021lrtsdet,
-  title={LR-TSDet: Towards Tiny Ship Detection in Low Resolution Remote Sensing Images},
-  author={Wu, Jixiang and Pan, Zongxu, and Lei, Bin and Hu, Yuxin},
-  journal={Remote Sensing},
-  volume={x},
-  number={x},
-  pages={x},
-  year={2021},
-  publisher={Multidisciplinary Digital Publishing Institute}
+  AUTHOR = {Wu, Jixiang and Pan, Zongxu and Lei, Bin and Hu, Yuxin},
+  TITLE = {LR-TSDet: Towards Tiny Ship Detection in Low-Resolution Remote Sensing Images},
+  JOURNAL = {Remote Sensing},
+  VOLUME = {13},
+  YEAR = {2021},
+  NUMBER = {19},
+  ARTICLE-NUMBER = {3890},
+  URL = {https://www.mdpi.com/2072-4292/13/19/3890},
+  ISSN = {2072-4292},
 }
 ```
 
