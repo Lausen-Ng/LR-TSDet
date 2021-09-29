@@ -10,7 +10,7 @@ Official implementation of LR-TSDet. This repository is based on [mmdetection](h
 
 ## Updates
 
--   2021-08-10. Code is released.
+-   2021-09. Code is released.
 
 ## Usage
 
