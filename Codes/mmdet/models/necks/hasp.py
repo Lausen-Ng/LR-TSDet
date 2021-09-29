@@ -9,7 +9,7 @@ class HASP(nn.Module):
     def __init__(self,
                  in_channel=256,
                  mid_channel=128,
-                 dila_rates=(2, 4, 6, 8),  # 1,2.3.4
+                 dila_rates=(2, 4, 6, 8),
                  norm_cfg=dict(type='GN', num_groups=32, requires_grad=True)
                  ):
         super(HASP, self).__init__()

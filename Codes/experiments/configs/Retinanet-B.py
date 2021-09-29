@@ -42,8 +42,6 @@ model = dict(
             gamma=2.0,
             alpha=0.25,
             loss_weight=1.0),
-        # reg_decoded_bbox=True,
-        # loss_bbox=dict(type='GIoULoss', loss_weight=1.0),
         loss_bbox=dict(type='SmoothL1Loss', beta=1.0/9.0, loss_weight=1.0)
     ),
     train_cfg=dict(
@@ -60,7 +58,7 @@ model = dict(
         nms_pre=1000,
         min_bbox_size=0,
         score_thr=0.05,
-        nms=dict(type='nms', iou_threshold=0.6),
+        nms=dict(type='nms', iou_threshold=0.5),
         max_per_img=100))
 
 dataset_type = 'VOCDataset'

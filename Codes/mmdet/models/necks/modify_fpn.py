@@ -74,7 +74,6 @@ class MFPN(nn.Module):
                  extra_convs_on_inputs=True,
                  relu_before_extra_convs=False,
                  no_norm_on_lateral=False,
-
                  use_att=False,
                  use_hasp=False,
                  dila_rates=(2, 4, 6, 8),
@@ -146,9 +145,6 @@ class MFPN(nn.Module):
                 norm_cfg=norm_cfg,
                 act_cfg=act_cfg,
                 inplace=False
-                # norm_cfg=dict(type='GN', num_groups=32),
-                # act_cfg=dict(type='ReLU'),
-                # inplace=True)
             )
             if self.use_att:
                 extra_att = NonLocal2d(
